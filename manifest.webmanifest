@@ -1,0 +1,49 @@
+{
+  "name": "PINTARA — Premium Learning Studio",
+  "short_name": "PINTARA",
+  "description": "Ekosistem belajar anak dengan 12 kategori Regular dan Premium Learning Studio playable untuk mengeja, kalimat, cerita, pengucapan, fonik, worksheet, misi, kuis, dan sertifikat.",
+  "id": "/",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui"
+  ],
+  "background_color": "#F7F6FC",
+  "theme_color": "#5146E5",
+  "orientation": "landscape-primary",
+  "lang": "id-ID",
+  "categories": [
+    "education",
+    "kids",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
